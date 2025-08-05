@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>correct.png</file>
+        <file>x-mark.png</file>
+        <file>success.wav</file>
+        <file>minus.png</file>
+    </qresource>
+</RCC>

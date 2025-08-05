@@ -1,0 +1,4 @@
+/ssd_home/QTCREATOR/AAA_temp/HabitTracker/build-app_core-Desktop-Debug/CMakeFiles/app_core.dir
+/ssd_home/QTCREATOR/AAA_temp/HabitTracker/build-app_core-Desktop-Debug/CMakeFiles/edit_cache.dir
+/ssd_home/QTCREATOR/AAA_temp/HabitTracker/build-app_core-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/ssd_home/QTCREATOR/AAA_temp/HabitTracker/build-app_core-Desktop-Debug/CMakeFiles/app_core_autogen.dir

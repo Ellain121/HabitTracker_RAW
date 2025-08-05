@@ -1,0 +1,269 @@
+{
+	"BUILD_DIR" : "/ssd_home/QTCREATOR/AAA_temp/HabitTracker/build-app_core-Desktop-Debug/app_core_autogen",
+	"CMAKE_BINARY_DIR" : "/ssd_home/QTCREATOR/AAA_temp/HabitTracker/build-app_core-Desktop-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/ssd_home/QTCREATOR/AAA_temp/HabitTracker/build-app_core-Desktop-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/ssd_home/QTCREATOR/AAA_temp/HabitTracker/app_core",
+	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/ssd_home/QTCREATOR/AAA_temp/HabitTracker/app_core/CMakeLists.txt",
+		"/ssd_home/QTCREATOR/AAA_temp/HabitTracker/build-app_core-Desktop-Debug/CMakeFiles/3.25.1/CMakeSystem.cmake",
+		"/usr/share/cmake-3.25/Modules/CMakeSystemSpecificInitialize.cmake",
+		"/ssd_home/QTCREATOR/AAA_temp/HabitTracker/build-app_core-Desktop-Debug/CMakeFiles/3.25.1/CMakeCXXCompiler.cmake",
+		"/usr/share/cmake-3.25/Modules/CMakeSystemSpecificInformation.cmake",
+		"/usr/share/cmake-3.25/Modules/CMakeGenericSystem.cmake",
+		"/usr/share/cmake-3.25/Modules/CMakeInitializeConfigs.cmake",
+		"/usr/share/cmake-3.25/Modules/Platform/Linux.cmake",
+		"/usr/share/cmake-3.25/Modules/Platform/UnixPaths.cmake",
+		"/usr/share/cmake-3.25/Modules/CMakeCXXInformation.cmake",
+		"/usr/share/cmake-3.25/Modules/CMakeLanguageInformation.cmake",
+		"/usr/share/cmake-3.25/Modules/Compiler/GNU-CXX.cmake",
+		"/usr/share/cmake-3.25/Modules/Compiler/GNU.cmake",
+		"/usr/share/cmake-3.25/Modules/Compiler/CMakeCommonCompilerMacros.cmake",
+		"/usr/share/cmake-3.25/Modules/Platform/Linux-GNU-CXX.cmake",
+		"/usr/share/cmake-3.25/Modules/Platform/Linux-GNU.cmake",
+		"/usr/share/cmake-3.25/Modules/CMakeCommonLanguageInclude.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6/Qt6ConfigVersion.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6/Qt6ConfigVersionImpl.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6/Qt6Config.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6/Qt6ConfigExtras.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6/Qt6Targets.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6/Qt6VersionlessTargets.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6/QtFeature.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6/QtFeatureCommon.cmake",
+		"/usr/share/cmake-3.25/Modules/CheckCXXCompilerFlag.cmake",
+		"/usr/share/cmake-3.25/Modules/CheckCXXSourceCompiles.cmake",
+		"/usr/share/cmake-3.25/Modules/Internal/CheckSourceCompiles.cmake",
+		"/usr/share/cmake-3.25/Modules/Internal/CheckCompilerFlag.cmake",
+		"/usr/share/cmake-3.25/Modules/Internal/CheckFlagCommonConfig.cmake",
+		"/usr/share/cmake-3.25/Modules/Internal/CheckSourceCompiles.cmake",
+		"/usr/share/cmake-3.25/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6/QtPublicAppleHelpers.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6/QtPublicFinalizerHelpers.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6/QtPublicPluginHelpers.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6/QtPublicTargetHelpers.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6/QtPublicWalkLibsHelpers.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6/QtPublicFindPackageHelpers.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6/QtPublicDependencyHelpers.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6/QtPublicTestHelpers.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6/QtPublicToolHelpers.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6/QtPublicCMakeHelpers.cmake",
+		"/usr/share/cmake-3.25/Modules/CMakeFindDependencyMacro.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6/Qt6Dependencies.cmake",
+		"/usr/share/cmake-3.25/Modules/FindThreads.cmake",
+		"/usr/share/cmake-3.25/Modules/CheckLibraryExists.cmake",
+		"/usr/share/cmake-3.25/Modules/CheckIncludeFileCXX.cmake",
+		"/usr/share/cmake-3.25/Modules/CheckCXXSourceCompiles.cmake",
+		"/usr/share/cmake-3.25/Modules/FindPackageHandleStandardArgs.cmake",
+		"/usr/share/cmake-3.25/Modules/FindPackageMessage.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6/Qt6ConfigVersion.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6/Qt6ConfigVersionImpl.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6/Qt6Config.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6/Qt6ConfigExtras.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6/Qt6Targets.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6/Qt6VersionlessTargets.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6/QtFeature.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6/QtFeatureCommon.cmake",
+		"/usr/share/cmake-3.25/Modules/CheckCXXCompilerFlag.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6/QtPublicAppleHelpers.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6/QtPublicFinalizerHelpers.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6/QtPublicPluginHelpers.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6/QtPublicTargetHelpers.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6/QtPublicWalkLibsHelpers.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6/QtPublicFindPackageHelpers.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6/QtPublicDependencyHelpers.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6/QtPublicTestHelpers.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6/QtPublicToolHelpers.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6/QtPublicCMakeHelpers.cmake",
+		"/usr/share/cmake-3.25/Modules/CMakeFindDependencyMacro.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6/Qt6Dependencies.cmake",
+		"/usr/share/cmake-3.25/Modules/FindThreads.cmake",
+		"/usr/share/cmake-3.25/Modules/CheckLibraryExists.cmake",
+		"/usr/share/cmake-3.25/Modules/CheckIncludeFileCXX.cmake",
+		"/usr/share/cmake-3.25/Modules/CheckCXXSourceCompiles.cmake",
+		"/usr/share/cmake-3.25/Modules/FindPackageHandleStandardArgs.cmake",
+		"/usr/share/cmake-3.25/Modules/FindPackageMessage.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6Core/Qt6CoreConfigVersion.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6Core/Qt6CoreConfigVersionImpl.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6Core/Qt6CoreConfig.cmake",
+		"/usr/share/cmake-3.25/Modules/CMakeFindDependencyMacro.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6Core/Qt6CoreDependencies.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6/FindWrapAtomic.cmake",
+		"/usr/share/cmake-3.25/Modules/CheckCXXSourceCompiles.cmake",
+		"/usr/share/cmake-3.25/Modules/FindPackageHandleStandardArgs.cmake",
+		"/usr/share/cmake-3.25/Modules/FindPackageMessage.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6CoreTools/Qt6CoreToolsConfigVersion.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6CoreTools/Qt6CoreToolsConfigVersionImpl.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6CoreTools/Qt6CoreToolsConfig.cmake",
+		"/usr/share/cmake-3.25/Modules/CMakeFindDependencyMacro.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6CoreTools/Qt6CoreToolsDependencies.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6CoreTools/Qt6CoreToolsTargets.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6CoreTools/Qt6CoreToolsTargets-none.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6CoreTools/Qt6CoreToolsAdditionalTargetInfo.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6CoreTools/Qt6CoreToolsVersionlessTargets.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6Core/Qt6CoreTargets.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6Core/Qt6CoreTargets-none.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6Core/Qt6CoreAdditionalTargetInfo.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6Core/Qt6CoreVersionlessTargets.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6Core/Qt6CoreMacros.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6Core/Qt6CoreConfigExtras.cmake",
+		"/usr/share/cmake-3.25/Modules/GNUInstallDirs.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6Sql/Qt6SqlConfigVersion.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6Sql/Qt6SqlConfigVersionImpl.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6Sql/Qt6SqlConfig.cmake",
+		"/usr/share/cmake-3.25/Modules/CMakeFindDependencyMacro.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6Sql/Qt6SqlDependencies.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6Sql/Qt6SqlTargets.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6Sql/Qt6SqlTargets-none.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6Sql/Qt6SqlAdditionalTargetInfo.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt6Sql/Qt6SqlVersionlessTargets.cmake"
+	],
+	"CMAKE_SOURCE_DIR" : "/ssd_home/QTCREATOR/AAA_temp/HabitTracker/app_core",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : 
+	[
+		[
+			"/ssd_home/QTCREATOR/AAA_temp/HabitTracker/app_core/Constants.hpp",
+			"MU",
+			"EWIEGA46WW/moc_Constants.cpp",
+			null
+		],
+		[
+			"/ssd_home/QTCREATOR/AAA_temp/HabitTracker/app_core/DatabaseManager.hpp",
+			"MU",
+			"EWIEGA46WW/moc_DatabaseManager.cpp",
+			null
+		],
+		[
+			"/ssd_home/QTCREATOR/AAA_temp/HabitTracker/app_core/Habit.hpp",
+			"MU",
+			"EWIEGA46WW/moc_Habit.cpp",
+			null
+		],
+		[
+			"/ssd_home/QTCREATOR/AAA_temp/HabitTracker/app_core/HabitDao.hpp",
+			"MU",
+			"EWIEGA46WW/moc_HabitDao.cpp",
+			null
+		],
+		[
+			"/ssd_home/QTCREATOR/AAA_temp/HabitTracker/app_core/HabitModel.hpp",
+			"MU",
+			"EWIEGA46WW/moc_HabitModel.cpp",
+			null
+		],
+		[
+			"/ssd_home/QTCREATOR/AAA_temp/HabitTracker/app_core/ImportLoader.hpp",
+			"MU",
+			"EWIEGA46WW/moc_ImportLoader.cpp",
+			null
+		],
+		[
+			"/ssd_home/QTCREATOR/AAA_temp/HabitTracker/app_core/Utility.hpp",
+			"MU",
+			"EWIEGA46WW/moc_Utility.cpp",
+			null
+		],
+		[
+			"/ssd_home/QTCREATOR/AAA_temp/HabitTracker/app_core/app_core_global.hpp",
+			"MU",
+			"EWIEGA46WW/moc_app_core_global.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/ssd_home/QTCREATOR/AAA_temp/HabitTracker/build-app_core-Desktop-Debug/app_core_autogen/include",
+	"MOC_COMPILATION_FILE" : "/ssd_home/QTCREATOR/AAA_temp/HabitTracker/build-app_core-Desktop-Debug/app_core_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : [ "APP_CORE_LIBRARY", "QT_CORE_LIB", "QT_SQL_LIB", "app_core_EXPORTS" ],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/usr/include/x86_64-linux-gnu/qt6/QtCore",
+		"/usr/include/x86_64-linux-gnu/qt6",
+		"/usr/lib/x86_64-linux-gnu/qt6/mkspecs/linux-g++",
+		"/usr/include/x86_64-linux-gnu/qt6/QtSql",
+		"/usr/include/c++/13",
+		"/usr/include/x86_64-linux-gnu/c++/13",
+		"/usr/include/c++/13/backward",
+		"/usr/lib/gcc/x86_64-linux-gnu/13/include",
+		"/usr/local/include",
+		"/usr/include/x86_64-linux-gnu",
+		"/usr/include"
+	],
+	"MOC_MACRO_NAMES" : 
+	[
+		"Q_OBJECT",
+		"Q_GADGET",
+		"Q_GADGET_EXPORT",
+		"Q_NAMESPACE",
+		"Q_NAMESPACE_EXPORT"
+	],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/g++-13",
+		"-dM",
+		"-E",
+		"-c",
+		"/usr/share/cmake-3.25/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/ssd_home/QTCREATOR/AAA_temp/HabitTracker/build-app_core-Desktop-Debug/app_core_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 4,
+	"PARSE_CACHE_FILE" : "/ssd_home/QTCREATOR/AAA_temp/HabitTracker/build-app_core-Desktop-Debug/CMakeFiles/app_core_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/usr/lib/qt6/libexec/moc",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 6,
+	"QT_VERSION_MINOR" : 4,
+	"SETTINGS_FILE" : "/ssd_home/QTCREATOR/AAA_temp/HabitTracker/build-app_core-Desktop-Debug/CMakeFiles/app_core_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/ssd_home/QTCREATOR/AAA_temp/HabitTracker/app_core/DatabaseManager.cpp",
+			"MU",
+			null
+		],
+		[
+			"/ssd_home/QTCREATOR/AAA_temp/HabitTracker/app_core/Habit.cpp",
+			"MU",
+			null
+		],
+		[
+			"/ssd_home/QTCREATOR/AAA_temp/HabitTracker/app_core/HabitDao.cpp",
+			"MU",
+			null
+		],
+		[
+			"/ssd_home/QTCREATOR/AAA_temp/HabitTracker/app_core/HabitModel.cpp",
+			"MU",
+			null
+		],
+		[
+			"/ssd_home/QTCREATOR/AAA_temp/HabitTracker/app_core/ImportLoader.cpp",
+			"MU",
+			null
+		],
+		[
+			"/ssd_home/QTCREATOR/AAA_temp/HabitTracker/app_core/Utility.cpp",
+			"MU",
+			null
+		]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}
